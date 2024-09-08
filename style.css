@@ -50,6 +50,10 @@ main{
     padding-top: 5vh;
 }
 
+iframe{
+    height: 70vh;
+}
+
 footer{
     background-color: #0B0D1C;
     color: whitesmoke;
